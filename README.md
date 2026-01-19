@@ -25,7 +25,8 @@ The apartment is managed by a housing company. I’m simply helping to find the 
 - Please note that the rent may be adjusted due to inflation, subject to confirmation with the housing management company
 
 
-If you’re interested or would like more details, feel free to message me. I’m happy to answer questions or arrange a viewing.
+If you’re interested or would like more details, feel free to message me. I’m happy to arrange a viewing, although my availability is limited as I usually don’t live in Leipzig. The next available dates are from **Friday, January 23rd to Monday, January 26th**.
+
 
 
 ### Photos:
