@@ -2,7 +2,7 @@
 
 Apartment for rent in Leipzig 04299, available from April 1st, 2026. It’s a bright and well-kept place in a quiet residential neighborhood, while still being very well connected and close to everything you need.
 
-The apartment is managed by a housing company. I’m simply helping to find the next tenant, ideally someone who would be happy to take over my furniture (details and prices can be discussed).
+The apartment is managed by a housing company. I’m simply helping to find the next tenant, ideally someone who could take over my furniture (details and prices can be discussed).
 
 
 ### Apartment Details:
