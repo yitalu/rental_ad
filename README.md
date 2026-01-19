@@ -9,7 +9,7 @@ The apartment is managed by a housing company. I’m simply helping to find the 
 - Living space: 67.20 m²
 - Layout: 2 rooms, 1 kitchen, 1 bathroom, 1 storage room, and 1 balcony
 - Practical and comfortable layout with lots of natural light
-- Suitable for singles or couples
+- Suitable for a single person or a couple
 
 
 ### Location & Transport:
