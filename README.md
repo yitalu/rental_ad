@@ -14,16 +14,16 @@ Excellent public transport connections: 3 tram lines, 2 bus lines, and 1 S-Bahn 
 The current rent is 676.8 € warm (541.80 € cold plus operation cost 135.00 €). It may be adjusted due to inflation and is subject to confirmation with the management company.
 
 ### Photos:
-<img src="photos/$_57-11.JPG" width="40%">
-<img src="photos/$_57-12.JPG" width="40%">
-<img src="photos/$_57-13.JPG" width="40%">
-<img src="photos/$_57-14.JPG" width="40%">
-<img src="photos/$_57-15.JPG" width="40%">
-<img src="photos/$_57-2.JPG" width="40%">
-<img src="photos/$_57-3.JPG" width="40%">
-<img src="photos/$_57-4.JPG" width="40%">
-<img src="photos/$_57-5.JPG" width="40%">
-<img src="photos/$_57-6.JPG" width="40%">
-<img src="photos/$_57-7.JPG" width="40%">
-<img src="photos/$_57-8.JPG" width="40%">
-<img src="photos/$_57-9.JPG" width="40%">
+<img src="photos/$_57-11.JPG" width="33%">
+<img src="photos/$_57-12.JPG" width="33%">
+<img src="photos/$_57-13.JPG" width="33%">
+<img src="photos/$_57-14.JPG" width="33%">
+<img src="photos/$_57-15.JPG" width="33%">
+<img src="photos/$_57-2.JPG" width="33%">
+<img src="photos/$_57-3.JPG" width="33%">
+<img src="photos/$_57-4.JPG" width="33%">
+<img src="photos/$_57-5.JPG" width="33%">
+<img src="photos/$_57-6.JPG" width="33%">
+<img src="photos/$_57-7.JPG" width="33%">
+<img src="photos/$_57-8.JPG" width="33%">
+<img src="photos/$_57-9.JPG" width="33%">
