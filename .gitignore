@@ -1,0 +1,6 @@
+# hide data and documents
+data/
+documents/
+
+# macOS system files
+.DS_Store
