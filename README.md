@@ -44,4 +44,4 @@ If you’re interested or would like more details, feel free to message me. I’
 <img src="photos/$_57-7.JPG" width="33%">
 <img src="photos/$_57-8.JPG" width="33%">
 <img src="photos/$_57-9.JPG" width="33%">
-<img src="IMG_4032.JPG" width="33%">
+<img src="photos/IMG_4032.JPG" width="33%">
